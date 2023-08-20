@@ -1,2 +1,2 @@
 # POO
-Um repositório da disciplina de Orientação a Objetos
+Um repositório de exercícios resolvidos na disciplina de Orientação a Objetos, no Instituto Federal do Tocantins - Campus Araguaína (IFTO).

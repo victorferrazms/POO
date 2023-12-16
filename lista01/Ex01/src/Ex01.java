@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 /*
- * Victor Manoel De Sousa Ferraz - TADS 2°SEMESTRE
- * @author 202322160001@ifto.local
+ * Victor Ferraz - TADS 2°SEMESTRE
+ * @author 2023
  */
 
 //1. Faça um algoritmo em Java para calcular um numero real e escreva, no navegador, o resultado do seu cubo, onde o cubo de um número é igual a potência do número elevado a 3.
